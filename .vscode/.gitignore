@@ -1,5 +1,4 @@
 .editorconfig
 bin/
 obj/
-.vscode/
-C-Sharp.sln/
+launch.json
