@@ -35,12 +35,14 @@ class Program4{
         Console.WriteLine(14 + -4 * 6 / 11);
         Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
     }
-} 
+}
 
 //main
-class Program{
+class Program
+{
     public static void Main()
     {
         Program4.Run4();
     }
 }
+
