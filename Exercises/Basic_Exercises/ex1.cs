@@ -17,9 +17,30 @@ class Program2{
     }
 }
 
+//Write a C# Sharp program to print the result of dividing two numbers.
+class Program3{
+    public static void Run3(){
+        int a = 88;
+        int b = 22;
+        Console.WriteLine(a / b);
+    }
+}
 
-class Program {
-    public static void Main() {
-        Program2.Run2();
+//Write a C# Sharp program to print the results of the specified operations.
+class Program4{
+    public static void Run4()
+    {
+        Console.WriteLine(-1 + 4 * 6);
+        Console.WriteLine((35 + 5) % 7);
+        Console.WriteLine(14 + -4 * 6 / 11);
+        Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
+    }
+} 
+
+//main
+class Program{
+    public static void Main()
+    {
+        Program4.Run4();
     }
 }
