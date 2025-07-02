@@ -1,0 +1,15 @@
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.csproj.AssemblyReference.cache
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.AssemblyInfoInputs.cache
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.AssemblyInfo.cs
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.csproj.CoreCompileInputs.cache
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/bin/Debug/net7.0/Basic_Exercises
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/bin/Debug/net7.0/Basic_Exercises.deps.json
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/bin/Debug/net7.0/Basic_Exercises.runtimeconfig.json
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/bin/Debug/net7.0/Basic_Exercises.dll
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/bin/Debug/net7.0/Basic_Exercises.pdb
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.dll
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/refint/Basic_Exercises.dll
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.pdb
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/Basic_Exercises.genruntimeconfig.cache
+/home/linus/Documents/VS_Code/C-Sharp/Exercises/Basic_Exercises/obj/Debug/net7.0/ref/Basic_Exercises.dll
