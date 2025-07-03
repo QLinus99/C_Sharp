@@ -28,8 +28,7 @@ class Program3{
 
 //Write a C# Sharp program to print the results of the specified operations.
 class Program4{
-    public static void Run4()
-    {
+    public static void Run4(){
         Console.WriteLine(-1 + 4 * 6);
         Console.WriteLine((35 + 5) % 7);
         Console.WriteLine(14 + -4 * 6 / 11);
@@ -37,12 +36,31 @@ class Program4{
     }
 }
 
-//main
-class Program
-{
-    public static void Main()
+
+//Write a C# Sharp program to swap two numbers.
+class Program5{
+    public static void Run5()
     {
-        Program4.Run4();
+        int first_num = 5;
+        int second_num = 6;
+        int swap_help;
+
+        swap_help = first_num;
+        first_num = second_num;
+        second_num = swap_help;
+
+        Console.WriteLine("First Number: {0}", first_num);
+        Console.WriteLine("Second_Number: {0}", second_num);
     }
 }
+
+//main
+class Program{
+    public static void Main()
+    {
+        Program5.Run5();
+    }
+}
+
+
 
