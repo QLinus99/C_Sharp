@@ -1,4 +1,7 @@
-.editorconfig
+.editorconfig/
 bin/
 obj/
-launch.json
+launch.json/
+settings.json/
+C-sharp.sln/
+.vscode/

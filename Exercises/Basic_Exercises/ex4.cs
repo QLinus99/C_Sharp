@@ -10,16 +10,13 @@ class Program31
         int[] arr1 = { 1, 2, 3, 4 };
         int[] arr2 = { 2, -2, 99, 34 };
 
-        int[] new_arr = {0, 0, 0, 0};
-
         for (int index = 0; index <= 3; index++)
         {
-            Console.Write( arr1[index] * arr2[index] + " ");
+            Console.Write(arr1[index] * arr2[index] + " ");
         }
-    
+
     }
 }
-
 
 
 
