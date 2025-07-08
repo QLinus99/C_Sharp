@@ -321,13 +321,3 @@ class Program70
         Console.WriteLine("New sentence: " + new_sentence);
     }
 }
-
-
-//main
-class Program
-{
-    public static void Main()
-    {
-        Program70.Run70();
-    }
-}
