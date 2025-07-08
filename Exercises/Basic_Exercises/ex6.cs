@@ -253,9 +253,9 @@ class Program60
         {
             for (int j = 0; j < num_columns; j++)
             {
-                if (matrix[i,j] >= 0)
+                if (matrix[i, j] >= 0)
                 {
-                    sum = sum + matrix[i,j];
+                    sum = sum + matrix[i, j];
                 }
             }
         }
@@ -263,12 +263,5 @@ class Program60
     }
 }
 
-//main
-class Program
-{
-    public static void Main()
-    {
-        Program60.Run60();
-    }
-}
+
 
