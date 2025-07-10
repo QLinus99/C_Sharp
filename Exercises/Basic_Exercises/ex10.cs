@@ -181,11 +181,52 @@ class Program98
     }
 }
 
+
+
+//Write a C# Sharp program to create and display all prime numbers in strict ascending decimal digit order. 
+class Program99
+{
+    public static void Run99()
+    {
+        Console.WriteLine("All prime numbers smaller than: ");
+        int start = Convert.ToInt32(Console.ReadLine());
+
+        List<int> primes = new List<int>();
+
+        while (start > 1)
+        {
+            if (Program92.Check_prime(start) == true)
+            {
+                primes.Add(start);
+            }
+            start--;
+        }
+        Console.WriteLine(string.Join(',', primes));
+    }
+}
+
+
+// Write a C# Sharp program to calculate the value of e. 
+class Program100
+{
+
+    public static void Run100()
+    {
+        double n = 100000000000000;
+        double euler;
+
+        euler = (Math.Pow(1 + 1 / n, n));
+
+        Console.WriteLine("Euler_number: " + euler);
+    }
+}
+
+
 //main
 class Program
 {
     static void Main(string[] args)
     {
-        Program98.Run98();
+        Program100.Run100();
     }
 }
